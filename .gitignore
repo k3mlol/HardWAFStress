@@ -1,0 +1,9 @@
+bin/*
+include/*
+lib/*
+
+.Python
+
+pip-selfcheck.json
+
+proxy_url.txt
